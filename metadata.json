@@ -1,0 +1,6 @@
+{
+  "name": "ViroAI",
+  "description": "Your Intelligent Multi-Agent Social Media Business Assistant - an AI-driven multi-agent platform for content generation, image/video production, competitor intelligence, scheduling, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
